@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      allov-override: true
+      override-none: true
