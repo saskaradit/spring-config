@@ -1,3 +1,7 @@
+server:
+  port: 8181
+
+
 twitter-ko-kafka-service:
   twitter-keywords:
     - Engineer
